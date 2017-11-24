@@ -13,4 +13,4 @@ To see how to use this library, take a look in the examples directory
 * upload.php - upload a new photo
 * replace.php - replace an existing photo
 
-
+php-curl problem fixed
